@@ -17,5 +17,8 @@
 ### 2、使用Mat进行操作 
  String ret=plateRecognise(Mat mat);  
  System.err.println(ret);
+### 依赖关系
+1、本项目依赖于opencv3.2.0及javacpp-1.3
+2、本项目默认导入四个系统环境jar包，如有不需要的系统环境可以直接从libs中删除对应jar包即可
 
 
