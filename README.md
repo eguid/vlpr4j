@@ -1,5 +1,5 @@
 ﻿# vlpr4j
-基于opencv的java车牌检测识别库（支持linux、windows、mac、Android平台），识别准确率99.7%以上。
+基于opencv的java车牌检测识别库（支持linux、windows、mac、Android平台），识别准确率79.7%以上。
 ## 基于
 1、vlpr4j基于EasyPR二次开发
 1、解决EasyPR的Java版本的无法编译、无法使用、opencv版本过老的问题。
