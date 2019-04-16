@@ -1,4 +1,5 @@
-﻿# vlpr4j
+[![LICENSE](https://img.shields.io/badge/license-Anti%20996-blue.svg)](https://github.com/996icu/996.ICU/blob/master/LICENSE)
+ # vlpr4j
 基于opencv的java车牌检测识别库（支持linux、windows、mac、Android平台），识别准确率79.7%以上。 
 ## 基于
 1、vlpr4j基于EasyPR二次开发
